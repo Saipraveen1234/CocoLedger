@@ -1,0 +1,8 @@
+# Core dependencies for CLI version
+pydantic==2.8.2
+click==8.1.7
+rich==13.7.1
+
+# For future web API (optional for CLI)
+fastapi==0.111.1
+uvicorn==0.30.1
